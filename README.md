@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Syed-Ayan-Ali/Syed-Ayan-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 Things I work with:
 
 [Visit Website](https://www.example.com)
--->
