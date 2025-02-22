@@ -2,11 +2,11 @@
 <h3 align="center">3rd year Computer Science Major @ City University of Hong Kong </h3>
 <h3 align="center">A full-stack web dev, 
 <h3>
-      and an ML enthusiast
+      \t\t\t\t\t and an ML enthusiast
 </h3>         
   
 <h3>
-        interested in Cyber Security 
+       \t\t\t\t\t\t\t\t\t\t interested in Cyber Security 
 </h3>
 
 - 🔭 I’m currently working in [UIGCL](https://www.uigcl.com/)
