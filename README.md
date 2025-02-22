@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Syed Ayan Ali</h1>
-<h3 align="center">3rd year City University CS; A full-stack web dev, and an ML enthusiast interested in Cyber Security</h3>
+<h3 align="center">3rd year Computer Science Major @ City University of Hong Kong </h3>
+<h3 align="center">A full-stack web dev, 
+<h3>
+      and an ML enthusiast
+</h3>         
+  
+<h3>
+        interested in Cyber Security 
+</h3>
 
 - 🔭 I’m currently working in [UIGCL](https://www.uigcl.com/)
 
@@ -9,7 +17,7 @@
 
 - 🤝 I’m looking for ideas on how to combine **Machine Learning with Cyber Security**
 
-- 👨‍💻 All of my projects are available on [this website... duh](this website... duh)
+- 👨‍💻 All of my projects are available on (this website... duh)
 
 - 💬 Ask me about **anything you are interested in or wanna discuss**
 
