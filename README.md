@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Ayan Ali</h1>
+
 <h3 align="center">3rd year Computer Science Major @ City University of Hong Kong </h3>
-<h3 align="center">A full-stack web dev, 
-<h3>
-      \t\t\t\t\t and an ML enthusiast
-</h3>         
-  
-<h3>
-       \t\t\t\t\t\t\t\t\t\t interested in Cyber Security 
-</h3>
+
+<h3 align="center">A full-stack web dev, and an ML enthusiast interested in Cyber Security </h3>
+
 
 - 🔭 I’m currently working in [UIGCL](https://www.uigcl.com/)
 
